@@ -1,3 +1,2 @@
-# hello-world
-This is a demo for Github
+# hello-world this is a demo for Github
 demo
